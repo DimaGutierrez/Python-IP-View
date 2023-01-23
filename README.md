@@ -14,7 +14,7 @@ Successfully installed sockets-1.0.0
 [notice] A new release of pip available: 22.3 -> 22.3.1
 [notice] To update, run: python.exe -m pip install --upgrade pip
 ```
-## Run IP View>
+## Run IP View >
 `BuscarIP.py`
 
 ## Run Port Scanner >
