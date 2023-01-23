@@ -1,5 +1,5 @@
 # Python-IP-View
-![https://github.com/dimagutierrez](https://github.com/DimaGutierrez/Python-IP-Search/blob/main/ipview.png)
+![https://github.com/dimagutierrez](https://github.com/DimaGutierrez/Python-IP-View/blob/main/ipview.png)
 </br>
 ## Need install on terminal
 `pip install sockets`
