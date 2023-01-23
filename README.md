@@ -1,4 +1,4 @@
-# Python-IP-Search
+# Python-IP-View
 ![https://github.com/dimagutierrez](https://github.com/DimaGutierrez/Python-IP-Search/blob/main/ipview.png)
 </br>
 ## Need install on terminal
