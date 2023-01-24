@@ -5,6 +5,7 @@
 ## Run IP View >
 `BuscarIP.py`
 
+Code:
 ```
 import socket
 
@@ -19,6 +20,7 @@ print("Tu direccion de IP es: " + ip)
 ## Run Port Scanner >
 `Port Scanner.py`
 
+Code:
 ```
 import sys
 import socket
