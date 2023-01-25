@@ -6,7 +6,7 @@
 `BuscarIP.py`
 
 Code:
-```
+```Ruby
 import socket
 
 hostname = socket.gethostname()
@@ -21,7 +21,7 @@ print("Tu direccion de IP es: " + ip)
 `Port Scanner.py`
 
 Code:
-```
+```Ruby
 import sys
 import socket
 
