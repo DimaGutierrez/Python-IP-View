@@ -38,7 +38,7 @@ try:
             print("El puerto {} esta abierto".format(port))
         s.close()
 except:
-     print("\n Saliento...")
+     print("\n Saliendo...")
      sys.exit(0)
 
 ```
